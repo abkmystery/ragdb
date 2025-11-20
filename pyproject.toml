@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "ragdb"
-version = "1.0.5"
+version = "1.0.6"
 description = "A patent-pending, embedded, multimodal RAG database that performs automated ingestion, hybrid vector+keyword search, and offline retrieval entirely inside a portable single-file SQLite container."
 readme = "README.md"
 requires-python = ">=3.9"
